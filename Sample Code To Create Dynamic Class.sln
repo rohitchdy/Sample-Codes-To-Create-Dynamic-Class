@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Code To Create Dynamic Class", "Sample Code To Create Dynamic Class.csproj", "{0667C375-339F-4F24-B714-B4D289E435FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample Code To Create Dynamic Class Using DynamicObject", "..\Sample Code To Create Dynamic Class Using DynamicObject\Sample Code To Create Dynamic Class Using DynamicObject.csproj", "{0D46179C-3F91-4236-83C0-BFA9F401B02C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0667C375-339F-4F24-B714-B4D289E435FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0667C375-339F-4F24-B714-B4D289E435FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0667C375-339F-4F24-B714-B4D289E435FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D46179C-3F91-4236-83C0-BFA9F401B02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D46179C-3F91-4236-83C0-BFA9F401B02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D46179C-3F91-4236-83C0-BFA9F401B02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D46179C-3F91-4236-83C0-BFA9F401B02C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
